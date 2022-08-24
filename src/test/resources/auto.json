@@ -1,0 +1,12 @@
+{
+  "name": "Subaru",
+  "age": 7,
+  "body": ["hatchback", "blue", "Х777ХХ199"],
+  "driveUnit": true,
+  "engine": {
+    "type": "petrol",
+    "cylinders": 8,
+    "valves": 16,
+    "turbine": true
+  }
+}
